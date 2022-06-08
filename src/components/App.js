@@ -9,7 +9,7 @@ import Header from './Header';
 
 const App = () =>  {
   return(
-    <div className="ui component">
+    <div className="ui component container">
       <BrowserRouter>
         <div>
           <Header />
